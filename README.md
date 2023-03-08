@@ -504,6 +504,13 @@ Steps to contribute in this repository
 </tr>
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Gaurav-jo1>
+            <img src=https://avatars.githubusercontent.com/u/93304640?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Gaurav Joshi/>
+            <br />
+            <sub style="font-size:14px"><b>Gaurav Joshi</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/vaibhav0726>
             <img src=https://avatars.githubusercontent.com/u/89084390?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Vaibhav Varshney/>
             <br />
@@ -538,6 +545,8 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>Anuj Agrawal</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/DhruviThakkar210>
             <img src=https://avatars.githubusercontent.com/u/103808644?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=dhruvi codes/>
@@ -545,20 +554,11 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>dhruvi codes</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Gaurab4>
             <img src=https://avatars.githubusercontent.com/u/72376166?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=GAURAB/>
             <br />
             <sub style="font-size:14px"><b>GAURAB</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Gaurav-jo1>
-            <img src=https://avatars.githubusercontent.com/u/93304640?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Gaurav Joshi/>
-            <br />
-            <sub style="font-size:14px"><b>Gaurav Joshi</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
